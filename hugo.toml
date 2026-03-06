@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://koalaquakes.github.io/devops-blog/'
 languageCode = 'en-us'
 title = 'My Blog Project'
 theme = "LoveIt"

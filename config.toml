@@ -1,9 +1,0 @@
-[params]
-  defaultTheme = "dark"
-  description = "DevOps, CI/CD and infrastructure tutorials"
-
-[params.home.profile]
-  enable = true
-  avatarURL = "/images/avatar.png"
-  title = "Shane Hart"
-  subtitle = "DevOps | Automation | Infrastructure"
