@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog Project</title>
-    <link>https://koalaquakes.github.io/devops-blog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My Blog Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://koalaquakes.github.io/devops-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create Blog Site</title>
-      <link>https://koalaquakes.github.io/devops-blog/posts/create-blog-site/</link>
+      <link>http://localhost:1313/posts/create-blog-site/</link>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://koalaquakes.github.io/devops-blog/posts/create-blog-site/</guid>
+      <guid>http://localhost:1313/posts/create-blog-site/</guid>
       <description>&lt;p&gt;Today I am building a blogging site using Hugo and will publish using CI/CD.&lt;/p&gt;</description>
     </item>
   </channel>
